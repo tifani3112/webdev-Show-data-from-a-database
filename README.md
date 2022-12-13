@@ -1,2 +1,2 @@
-# webdev-Show-data-from-a-database
-Show data from a database
+# webdev-input and output
+CREATING OUTPUTS AND INPUTS TO AND FROM THE DATABASE - SELECT2
