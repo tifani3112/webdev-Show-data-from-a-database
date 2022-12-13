@@ -1,2 +1,2 @@
 # webdev-input and output
-CREATING OUTPUTS AND INPUTS TO AND FROM THE DATABASE - SELECT2
+creating otput and input to and from the database. using select2 to input
